@@ -5,3 +5,5 @@
 .*~$
 Makefile.gcc
 LICENSE
+^.*\.Rproj$
+^\.Rproj\.user$
